@@ -40,6 +40,14 @@ The best-performing model was picked as the final model. The best model was the 
 
 RECOMMENDATION
 
+1.Customer Service Experience: The analysis indicates a weak positive correlation between customer service calls and churn. SyriaTel should focus on enhancing its customer service experience by providing prompt and effective support, streamlining issue resolution processes, and ensuring a satisfactory customer interaction. Investing in staff training, optimizing response times, and implementing self-service options can help reduce the number of customer service calls and improve overall customer satisfaction.
+
+2.International Plans: The analysis suggests that customers with international plans have a higher churn rate. SyriaTel should assess the value and attractiveness of their international plans and consider offering additional benefits or incentives to retain these customers. Special promotions, discounted rates, or enhanced customer support for international calling can help improve customer satisfaction and reduce churn in this segment.
+
+3.Pricing and Usage Plans: The analysis indicates a strong correlation between the total minutes used and the corresponding charges. SyriaTel can consider offering competitive pricing plans that align with customer usage patterns. This can include options for bundled minutes or customized plans based on peak usage times (day, evening, night) to optimize customer satisfaction and reduce churn.
+
+
+
 
 
 
