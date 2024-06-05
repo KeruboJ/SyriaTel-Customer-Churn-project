@@ -36,6 +36,8 @@ CONCLUSION
 
 The best-performing model was picked as the final model. The best model was the Decision Tree Model. It had the highest area under the curve.
 
+![alt text](image-1.png)
+
 RECOMMENDATION
 
 
