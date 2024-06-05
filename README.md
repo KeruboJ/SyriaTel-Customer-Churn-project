@@ -31,10 +31,15 @@ Data Preparation - Loading Libraries - Loading data - Descriptive Exploration - 
 
 Modelling - Train test split - Baseline Model - Logistic Regression- KNN - Decision Tree
 
-Conclusion
-
-Recommendation
 
 CONCLUSION
+
+The best-performing model was picked as the final model. The best model was the Decision Tree Model. It had the highest area under the curve.
+
+RECOMMENDATION
+
+
+
+
 
 
