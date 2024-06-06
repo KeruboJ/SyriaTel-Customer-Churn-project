@@ -1,3 +1,8 @@
+![alt text](image-3.png)
+
+
+
+
 BUSINESS UNDERSTANDING
 
 SyriaTel, a prominent telecommunications company, is confronting the issue of customer churn. To mitigate financial losses and ensure the company's longevity, this project seeks to create a classification model that predicts customer churn by identifying the patterns and factors associated with it. By leveraging these insights, the company can implement proactive strategies to retain customers and promote sustained growth.
@@ -34,7 +39,7 @@ Modelling - Train test split  - Logistic Regression- KNN - Decision Tree
 
 CONCLUSION
 
-The best-performing model was picked as the final model. The best model was the Decision Tree Model. It exhibited the greatest area under the curve compared to the other models
+ The best model was the Decision Tree Model. It exhibited the greatest area under the curve compared to the other models
 
 ![alt text](image-2.png)
 
