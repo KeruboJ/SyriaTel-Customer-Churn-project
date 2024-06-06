@@ -29,14 +29,14 @@ PROJECT PLAN
 
 Data Preparation - Loading Libraries - Loading data - Descriptive Exploration - Data Cleaning - Exploratory Descriptive Analysis (EDA) - Pre-processing Data
 
-Modelling - Train test split - Baseline Model - Logistic Regression- KNN - Decision Tree
+Modelling - Train test split  - Logistic Regression- KNN - Decision Tree
 
 
 CONCLUSION
 
-The best-performing model was picked as the final model. The best model was the Decision Tree Model. It had the highest area under the curve.
+The best-performing model was picked as the final model. The best model was the Decision Tree Model. It exhibited the greatest area under the curve compared to the other models
 
-![alt text](image-1.png)
+![alt text](image-2.png)
 
 RECOMMENDATION
 
